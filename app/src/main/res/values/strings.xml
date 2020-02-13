@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab03</string>
+    <string name="strawberry">Strawberry</string>
+    <string name="coffee">Coffee</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="vanilla">Vanilla</string>
+    <string name="question">What is the best ice cream flavor?</string>
+</resources>
